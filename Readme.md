@@ -16,8 +16,6 @@ elk.
 Все логи с nginx должны уходить на удаленный сервер (локально только критичные).
 Логи аудита должны также уходить на удаленную систему.
 
-Формат сдачи ДЗ - vagrant + ansible
-
 1. Создаём 2 ВМ web и log на основе приложенного [Vagrantfile](https://github.com/zoyqqyoz/Otus_Kaneva_dz16/blob/master/Vagrantfile) и запускаем их:
 
 ```
