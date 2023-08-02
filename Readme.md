@@ -18,7 +18,7 @@ elk.
 
 Формат сдачи ДЗ - vagrant + ansible
 
-1. Создаём 2 ВМ web и log на основе приложенного Vagrantfile и запускаем их:
+1. Создаём 2 ВМ web и log на основе приложенного [Vagrantfile](https://github.com/zoyqqyoz/Otus_Kaneva_dz16/blob/master/Vagrantfile) и запускаем их:
 
 ```
 neva@Uneva:~$ vagrant up
